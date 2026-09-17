@@ -12,7 +12,7 @@
 
 Systems development student at Newtons Yrkeshögskola, building with .NET, C# and React. Currently on LIA at Arkiwera.
 
-🔭 &nbsp;I'm currently working on **Newtons Biograf, a cinema booking system built with .NET 8, EF Core &amp; React**  
+🔭 &nbsp;I'm currently working on **A cinema booking system built with .NET 8, EF Core &amp; React**  
 🌱 &nbsp;I'm currently learning **Clean Architecture &amp; integration testing**  
 👯 &nbsp;I'm looking to collaborate on **web projects that mix .NET and React**  
 🤔 &nbsp;I'm looking for help with **landing my first junior developer role**  
